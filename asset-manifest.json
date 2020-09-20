@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kbhutani0001/kbhutani0001.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/kbhutani0001/kbhutani0001.github.io/static/js/main.339b9118.chunk.js",
-    "main.js.map": "/kbhutani0001/kbhutani0001.github.io/static/js/main.339b9118.chunk.js.map",
-    "runtime-main.js": "/kbhutani0001/kbhutani0001.github.io/static/js/runtime-main.9e481cf7.js",
-    "runtime-main.js.map": "/kbhutani0001/kbhutani0001.github.io/static/js/runtime-main.9e481cf7.js.map",
-    "static/js/2.d15f3359.chunk.js": "/kbhutani0001/kbhutani0001.github.io/static/js/2.d15f3359.chunk.js",
-    "static/js/2.d15f3359.chunk.js.map": "/kbhutani0001/kbhutani0001.github.io/static/js/2.d15f3359.chunk.js.map",
-    "index.html": "/kbhutani0001/kbhutani0001.github.io/index.html",
-    "precache-manifest.c623367be963ffc256a64e39d8a5250d.js": "/kbhutani0001/kbhutani0001.github.io/precache-manifest.c623367be963ffc256a64e39d8a5250d.js",
-    "service-worker.js": "/kbhutani0001/kbhutani0001.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/kbhutani0001/kbhutani0001.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d15f3359.chunk.js.LICENSE.txt": "/kbhutani0001/kbhutani0001.github.io/static/js/2.d15f3359.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/kbhutani0001/kbhutani0001.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.4315011f.chunk.js",
+    "main.js.map": "/static/js/main.4315011f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.24b57533.js",
+    "runtime-main.js.map": "/static/js/runtime-main.24b57533.js.map",
+    "static/js/2.d15f3359.chunk.js": "/static/js/2.d15f3359.chunk.js",
+    "static/js/2.d15f3359.chunk.js.map": "/static/js/2.d15f3359.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f46463e7c533f912f1d9c36d15335ba5.js": "/precache-manifest.f46463e7c533f912f1d9c36d15335ba5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d15f3359.chunk.js.LICENSE.txt": "/static/js/2.d15f3359.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e481cf7.js",
+    "static/js/runtime-main.24b57533.js",
     "static/js/2.d15f3359.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.339b9118.chunk.js"
+    "static/js/main.4315011f.chunk.js"
   ]
 }
