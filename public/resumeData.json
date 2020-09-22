@@ -94,10 +94,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "JIIT Classroom",
+        "category": "Full Stack Development",
+        "image": "jiitclassroom.jpg",
+        "url": "https://github.com/kbhutani0001/jiit-classroom/"
+      },
+      {
+        "title": "Certify",
+        "category": "Web development",
+        "image": "certify.png",
+        "url": "https://github.com/kbhutani0001/Certify"
       }
     ]
   }
