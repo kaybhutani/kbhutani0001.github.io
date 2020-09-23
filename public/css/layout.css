@@ -28,17 +28,7 @@ body { background: #0f0f0f; }
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
 
-@keyframes gradient {
-   0% {
-      background-position: 0% 50%;
-   }
-   50% {
-      background-position: 100% 50%;
-   }
-   100% {
-      background-position: 0% 50%;
-   }
-}
+
 
 header {
    position: relative;
@@ -51,9 +41,20 @@ header {
    overflow: hidden;
    background: linear-gradient(45deg, #390046, #340077);
 	background-size: 400% 400%;
-	animation: gradient 5s ease infinite;
+	animation: gradient 15s infinite;
 }
 
+@keyframes gradient {
+   0% {
+      background-position: 0% 50%;
+   }
+   50% {
+      background-position: 100% 50%;
+   }
+   100% {
+      background-position: 0% 50%;
+   }
+}
 
 
 /* vertically center banner section */
