@@ -47,9 +47,9 @@
     "work": [
       {
         "company": "EOS Design System",
-        "title": "Mentor and Opensource Developer",
+        "title": "Mentor and Core Collaborator",
         "years": "January 2019 - Present",
-        "description": "Mentor at Google Summer of Code under parent organization Python Software Foundation and OpenSource developer at EOS Design System."
+        "description": "Mentor at Google Summer of Code under parent organization Python Software Foundation and Core contributor at EOS Design System."
       },
       {
         "company": "Surepass",
@@ -80,12 +80,16 @@
         "level": "90%"
       },
       {
-        "name": "C++",
-        "level": "80%"
+        "name": "Javascript",
+        "level": "85%"
       },
       {
-        "name": "Javascript",
-        "level": "60%"
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
       },
       {
         "name": "MongoDB",
@@ -100,10 +104,22 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Grub.live",
+        "category": "Full stack",
+        "image": "grub.live.png",
+        "url": "https://grub.live"
+      },
+      {
         "title": "JIIT Classroom",
         "category": "Full Stack Development",
         "image": "jiitclassroom.jpg",
-        "url": "https://github.com/kbhutani0001/jiit-classroom/"
+        "url": "http://jiitclassroom.herokuapp.com/"
+      },
+      {
+        "title": "Ticket Booking System",
+        "category": "Backend development",
+        "image": "ticketbooking.jpg",
+        "url": "https://github.com/kbhutani0001/ticket-booking-system"
       },
       {
         "title": "Certify",
